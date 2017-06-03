@@ -85,7 +85,7 @@ class ViewController: UIViewController {
         runningNumber = ""
         result = ""
         outPutLabel.text = result
-        processOpertion(operation: .Emptyssss)
+        processOpertion(operation: .Empty)
         
         
     }
